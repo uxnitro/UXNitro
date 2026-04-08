@@ -1,0 +1,37 @@
+{
+    "name": "customify",
+    "version": "0.4.13",
+    "main": "Gruntfile.js",
+    "engines": {
+        "node": ">= 0.10.0"
+    },
+    "devDependencies": {
+        "autoprefixer": "latest",
+        "grunt": "^1.6.1",
+        "grunt-bumpup": "latest",
+        "grunt-contrib-clean": "latest",
+        "grunt-contrib-compress": "latest",
+        "grunt-contrib-concat": "latest",
+        "grunt-contrib-copy": "latest",
+        "grunt-contrib-cssmin": "latest",
+        "grunt-contrib-jshint": "latest",
+        "grunt-contrib-sass": "latest",
+        "grunt-contrib-uglify": "latest",
+        "grunt-contrib-watch": "latest",
+        "grunt-phpcbf": "latest",
+        "grunt-phpcs": "latest",
+        "grunt-postcss": "latest",
+        "grunt-rtlcss": "latest",
+        "grunt-text-replace": "latest",
+        "grunt-wp-i18n": "latest",
+        "request": "^2.88.2"
+    },
+    "dependencies": {
+        "copy": "^0.0.1",
+        "element-qsa-scope": "^1.1.0",
+        "rtlcss": "latest"
+    },
+    "browserslist": [
+        "defaults"
+    ]
+}
